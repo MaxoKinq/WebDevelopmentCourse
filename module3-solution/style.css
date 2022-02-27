@@ -1,0 +1,86 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #bfbfbf;
+  font-family: 'Prompt', sans-serif;
+}
+
+/** HEADER **/
+
+#header-nav {
+  background-color: #1a1a1a;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 {
+  Font-size: 2.5em;
+  font-weight: bolder;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  text-decoration: none;
+}
+
+/**Menu Links **/
+
+li {
+  font-family: monospace;
+  font-size: 1.3em;
+  margin-top: 10px;
+
+}
+
+li a:hover {
+  text-decoration: underline;
+  background-color: slategray;
+}
+
+.nav-link {
+  background-color: Black;
+  border: 1px solid black;
+  border-radius: 5px 10px;
+}
+
+/**Menu Content in Page (Outside of Menu) **/
+
+#MenuTitle {
+ font-family: 'Londrina Solid', cursive;
+ font-size: 4em;
+ color: black;
+ margin-top: 15px;
+ margin-bottom: 20px;
+}
+
+.menu-div {
+  background-color: #333333;
+  border-radius: 5px 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.menucontainer p {
+  font-family: Calibri;
+  margin-top: 10px;
+}
+
+.chicken-h1 {
+  font-family: Tahoma;
+  margin-top: 5px;
+  border: 1px solid gray;
+  border-radius: 5px 10px;
+}
+
+.beef-h1 {
+  font-family: Tahoma;
+  margin-top: 5px;
+   border: 1px solid gray;
+  border-radius: 5px 10px;
+}
+.sushi-h1 {
+  font-family: Tahoma;
+  margin-top: 5px;
+   border: 1px solid gray;
+  border-radius: 5px 10px;
+}
