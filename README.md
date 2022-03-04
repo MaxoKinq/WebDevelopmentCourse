@@ -16,3 +16,5 @@ https://maxokinq.github.io/coursera-test/module4-solution/index.html
 
 
 I'm very happy with what I have learned so far, I like the course a lot !
+
+Note: The only problem is that I haven't learned properly how to upload the files directly from my computer cmd program, BUT I still can practice and get my assignments done while practicing with the browser sync.
