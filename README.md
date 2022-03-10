@@ -14,6 +14,9 @@ To see the work I have done in module 4 can be found in the link below:
 
 https://maxokinq.github.io/coursera-test/module4-solution/index.html
 
+To see the work I have done in module 4 can be found in the link below:
+
+https://maxokinq.github.io/coursera-test/module5-solution/index.html
 
 I'm very happy with what I have learned so far, I like the course a lot !
 
